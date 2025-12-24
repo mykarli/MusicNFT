@@ -1,82 +1,60 @@
-# MusicNFT
+# 🎵 MusicNFT – Web3 Music Ownership Platform
 
-## 🧠 Overview
-MusicNFT, müzik üreticilerinin dijital eserlerini blockchain üzerinde
-benzersiz (NFT) varlıklar olarak yayınlayabilmesini amaçlayan bir Web3 projesidir.
-
-Bu proje, müzisyenlerin eser sahipliği ve dijital gelir modelleri konusundaki
-problemlerine teknoloji tabanlı bir çözüm sunmayı hedefler.
+## Overview
+MusicNFT is a Web3-oriented project exploring digital music ownership through NFTs.  
+The project aims to demonstrate how **blockchain technology** can empower artists by enabling transparent ownership and distribution models.
 
 ---
 
-## 🎯 Problem Statement
-Dijital müzik dünyasında:
-- Sanatçılar eser sahipliği üzerinde yeterli kontrole sahip değil
-- Gelir paylaşımı şeffaf değil
-- Dijital kopyalama eser değerini düşürüyor
-
-Mevcut platformlar, içerik üreticiyi merkeze alan çözümler sunmakta yetersiz kalıyor.
-
----
-
-## 💡 Solution Approach
-Bu projede:
-
-- Müzik eserleri NFT olarak tokenize edildi
-- Her eser blockchain üzerinde **tekil ve doğrulanabilir** hale getirildi
-- Sahiplik ve transfer işlemleri akıllı kontratlar üzerinden yönetildi
-
-Amaç, sanatçı ile eser arasındaki bağı teknolojiyle güçlendirmekti.
+## Features
+- NFT-based music ownership concept
+- Blockchain integration fundamentals
+- Artist-focused digital asset model
+- Scalable structure for Web3 extensions
+- Experimental and exploratory architecture
 
 ---
 
-## 🔁 User Flow
-1. Sanatçı müzik içeriğini platforma yükler  
-2. Eser NFT olarak oluşturulur  
-3. NFT blockchain üzerinde mint edilir  
-4. Kullanıcılar NFT’leri görüntüler ve sahiplenebilir  
-
-Bu akış, Web3 ekosistemindeki gerçek kullanım senaryoları baz alınarak tasarlandı.
+## Tech Stack
+- Blockchain (Web3 concepts)
+- Smart Contracts
+- JavaScript  
+- Git & GitHub  
 
 ---
 
-## 🛠️ Tech Stack
-- Frontend: Next.js
-- Blockchain: (Solana / Ethereum / kullandığın ağı belirt)
-- Smart Contracts: (kullandığın teknoloji)
-- Wallet Integration: (Phantom / Metamask vs.)
+## Key Decisions & Trade-offs
+- Focused on conceptual clarity rather than production-ready deployment.
+- Prioritized learning and experimentation over optimization.
+- Kept the architecture simple to highlight ownership logic.
+- Avoided unnecessary complexity to keep the project understandable.
 
 ---
 
-## ⚖️ Key Decisions & Trade-offs
-- **Web3 altyapısı tercih edildi**  
-  → Merkezi platformlara bağımlılığı azaltmak için
-
-- **Basit MVP kapsamı** belirlendi  
-  → Konsept doğrulama ve ürün fikrini test etmek amacıyla
-
-Bu proje, teknik karmaşıklıktan çok **ürün vizyonu** odaklı geliştirildi.
+## Product & Business Perspective
+- Enables artists to monetize music directly without intermediaries.
+- Provides transparent ownership and royalty models.
+- Can be extended into a marketplace or streaming integration.
+- Explores alternative revenue streams in the digital music industry.
 
 ---
 
-## 🚀 Possible Improvements
-Proje genişletilmek istenirse:
-
-- Royalty (telif) mekanizması
-- İkincil satış desteği
-- Sanatçı profilleri
-- NFT marketplace entegrasyonu
+## Engineering Mindset
+This project reflects a **curiosity-driven and future-oriented mindset**, combining technical experimentation with creative industry needs.
 
 ---
 
-## 📌 Why This Project Matters
-Bu proje:
-- Web3 teknolojilerinin gerçek bir problem alanında kullanımını
-- Ürün geliştirme sürecinde **alan bilgisinin** önemini
-- Teknik kararların iş ve kullanıcı değeriyle ilişkisini
+## Future Improvements
+- Smart contract deployment on testnet
+- Wallet integration
+- NFT marketplace features
+- Artist and listener dashboards
 
-göstermek amacıyla geliştirilmiştir.
+---
 
-MusicNFT, sadece bir teknik demo değil;
-**vizyon odaklı bir ürün denemesidir.**
+## Getting Started
+```bash
+git clone https://github.com/mykarli/MusicNFT.git
+cd MusicNFT
+# Web3 setup instructions can be added here
 
